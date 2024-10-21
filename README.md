@@ -1,7 +1,7 @@
 # Project Overview
 This project is a collaborative effort aimed at analyzing and segmenting McDonald's customer base. We utilized various advanced data techniques to uncover different customer segments and provide actionable insights to help McDonald's tailor its marketing strategies more effectively.
 
-## What We Did:
+## What We Did
 
 **1) Data Collection:** We gathered high-quality data that included customer behaviors, preferences, and demographics.
 
@@ -13,7 +13,7 @@ This project is a collaborative effort aimed at analyzing and segmenting McDonal
 
 **5) Targeting and Strategy Recommendations:** Based on our analysis, we proposed specific marketing strategies for the most promising segments. For example, one idea was a budget-friendly product line to attract younger customers who find McDonald's food tasty but expensive.
 
-## Techniques and Tools Used:
+## Techniques and Tools Used
 
 Principal Component Analysis (PCA)
 
