@@ -1,5 +1,5 @@
 # Project Overview
-This project is a collaborative effort aimed at analyzing and segmenting McDonald's customer base. We utilized various advanced data techniques to uncover different customer segments and provide actionable insights to help McDonald's tailor its marketing strategies more effectively.
+This project is a collaborative effort aimed at analyzing and segmenting McDonald's customer base. We used various advanced data techniques to uncover different customer segments and provide actionable insights to help McDonald's tailor its marketing strategies more effectively.
 
 ## What We Did
 
